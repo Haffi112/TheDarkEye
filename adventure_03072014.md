@@ -4,6 +4,7 @@ Adventure Log
 The people in Trackenborn are suffering from some illness, called
 Braback fever and the sick have been quarantined in the Peraine temple.
 
+## Day 3 after the trial
 The goal was to have Mirio get the group in contact with his sister (one
 of the witches) and ask her about the plague and whether she could be of
 any help. He suddenly awakes the group as it was sleeping in the inn and
