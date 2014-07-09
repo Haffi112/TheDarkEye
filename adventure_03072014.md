@@ -189,6 +189,7 @@ Everyone gets 250 AP and special experiences:
 
 ## Unresolved mysteries
 1. Why did the fire not stop in the forest?
+2. Irion still needs to reveal his half spheres to the full moon.
 
 
 
